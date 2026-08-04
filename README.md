@@ -1,7 +1,7 @@
 # hi, I'm agg.ohhtechie
 
 Computer science student at SH college<br>
-Interested in Design<br>
+Interested in coding stuff<br>
 Creates themed desktop apps to stay consistent</br>
 
 
